@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1678871171 source:c:\users\aleksa\desktop\vezbanjec!\kolokvijum_3\kolokvijum_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1679194061 source:c:\users\aleksa\desktop\vezbanjec!\kolokvijum_3\kolokvijum_3\naucnik\yt_demo.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1679226736 source:c:\users\aleksa\desktop\vezbanjec!\kolokvijum_3\kolokvijum_3\naucnik\naucnici_lista_novo.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1679264280 source:c:\users\aleksa\desktop\vezbanjec!\kolokvijum_3\kolokvijum_3\naucnik\klasik.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1679323817 source:c:\users\aleksa\desktop\vezbanjec!\kolokvijum_3\kolokvijum_3\naucnik\naucnici_lista\untitled2.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1679347864 source:c:\users\aleksa\desktop\vezbanjec!\kolokvijum_3\kolokvijum_3\naucnik\proba_unikatna_prezimena.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
