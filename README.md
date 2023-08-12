@@ -1,1 +1,1 @@
-# Vezbanje_C
+# C_exercises
